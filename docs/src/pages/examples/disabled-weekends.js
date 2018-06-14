@@ -8,7 +8,7 @@ export default () => (
     <p>
       Pass <code>daysOfWeek</code> to <code>disabledDays</code> to disable days
       based on their week number. This example disables Sundays (<code>0</code>)
-      and Saturdays (<code>6</code>).
+      and Saturdays (<code>6</code>) as well as an example random date (April 12, 2017).
     </p>
     <CodeSample name="examples/disabled-weekends" />
   </ExamplePage>
